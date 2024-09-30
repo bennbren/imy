@@ -1,4 +1,3 @@
-// Add all your JS here
 window.addEventListener('load', () => {
     const message = document.querySelector('.message');
     let interval = setInterval(() => {
