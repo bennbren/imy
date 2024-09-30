@@ -25,6 +25,31 @@ body {
     transform: translateY(20px);
     animation: fadeInUp 3s forwards;
 }
+button#openYouTube {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button#openYouTube2{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightblue;
+}
+
+
+
 
 @keyframes fadeInUp {
     0% {
