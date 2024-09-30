@@ -16,6 +16,6 @@ document.getElementById('openYouTube').addEventListener('click', function() {
 });
 
 document.getElementById('openYouTube2').addEventListener('click', function() {
-    const videoUrl = 'https://youtube.com/shorts/5JhI02EbQmg?si=YB1tER6Ja4XPjI67';
+    const videoUrl = 'https://youtu.be/JC5eEdH4HoA?si=sVVa5IWvwmL1_AKz';
     window.open(videoUrl, '_blank'); // Opens the link in a new tab
 });
